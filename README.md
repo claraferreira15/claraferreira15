@@ -4,7 +4,7 @@ meu nome é Clara Ferreira Dos Santos
 
 - Eu estou estudando na[Alura](ttps://ww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço paraminha organização e compartilhamento dos meus projetos desenvolvido
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
 
 - ### Você entrar em contato comigo ;
 
